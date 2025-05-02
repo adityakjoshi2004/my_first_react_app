@@ -4,7 +4,7 @@ import SearchIcon from './search.svg';
 import MovieCard from './moviecard';
 
 
-const API_URL = "http://www.omdbapi.com/?apikey=eef6b8d5"
+const API_URL = "http://www.omdbapi.com/?apikey=********"
 
 // const movie1 = {
 //     Poster: "https://m.media-amazon.com/images/M/MV5BYWNiMmNlNmQtZTI2MS00MzAxLTgxM2QtNDY3ZGQxNDMwZDgzXkEyXkFqcGc@._V1_SX300.jpg",
